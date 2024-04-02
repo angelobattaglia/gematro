@@ -1,6 +1,7 @@
 # Fork of Gematro
 
 This is a fork of the popular cryptography/gematria calculator called Gematro, hosted at [gematro.com](https://gematro.com).
+The original work was made by someone called "Saun Virroco".
 This fork aims at adding new ciphers as fast as possible! In fact, it has been added the QWERTY set of ciphers. It also has no
 google analytics tags, meaning that it's private, and free. Feel free to fork it and/or send pull requests.
 

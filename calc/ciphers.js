@@ -341,6 +341,7 @@ cipherList = [
 		false,
 		true
 	),
+	// Hebrew ciphers, to add some more ciphers to the list
 	new cipher(
 		"Mispar Siduri",
 		"Hebrew",
