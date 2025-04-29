@@ -1,8 +1,9 @@
 # Fork of Gematro
 
 This is a fork of the popular cryptography/gematria calculator called Gematro, hosted at [gematro.com](https://gematro.com).
-This fork aims to add new ciphers as fast as possible! It also has no
-google analytics tags, meaning that it's privacy-oriented. 
+This fork aims to add new ciphers as fast as possible. Also, it doesn’t include any Google Analytics or tracking, so it’s more privacy-friendly.
+
+This fork adds new ciphers quickly and 
 
 Feel free to fork it and/or send pull requests.
 
