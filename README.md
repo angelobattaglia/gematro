@@ -6,7 +6,7 @@ google analytics tags, meaning that it's private, and free. Feel free to fork it
 
 ## List of Modifications
 
-In "calc/calc.js", row 25, I've setted the Extra Ciphers as always visible
+In "calc/calc.js", row 25, I've set the Extra Ciphers as always visible
 
 ```javascript
 var optShowExtraCiphers = true // false // enable extra ciphers
