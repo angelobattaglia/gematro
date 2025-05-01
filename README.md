@@ -1,10 +1,10 @@
 # Fork of Gematro
 
-This is a fork of the popular cryptography/gematria calculator called Gematro, with my private modifications.
+This is a fork of the popular cryptography/gematria calculator called Gematro, with my personal modifications.
 
 ## changelog
 
-### QWERTY ciphers
+### QWERTY ciphers addition
 In "calc/ciphers.js" I've added the "QWERTY" ciphers: the extended QWERTY, the ordinal QWERTY and the reduced QWERTY. All with their respective reverse ciphers.
 
 ### Extra Ciphers always visible
